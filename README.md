@@ -4,12 +4,12 @@
 This repository contains a Jupyter notebook implementing logistic regression using a single neuron neural network on the Diabetes dataset. The goal is to predict whether a person has diabetes based on various health features.
 
 ## Contents
-- Introduction: Overview and references.
-- Importing Libraries: Code snippet to import necessary Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
-- Dataset Insights: Code for importing, summarizing, and exploring the dataset characteristics including handling null values, duplicates, and understanding data distribution.
-- Data Preprocessing: Detailed steps including normalization techniques like Z-score normalization and Box-Cox transformation, aimed at preparing the dataset for modeling.
-- Model Creation: Detailed explanation and implementation of Logistic Regression from scratch including the mathematical foundations and coding aspects.
-- Model Evaluation: Techniques and code snippets for evaluating the performance of the created model.
+- **Introduction**: Overview and references.
+- **Importing Libraries**: Code snippet to import necessary Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn.
+- **Dataset Insights**: Code for importing, summarizing, and exploring the dataset characteristics including handling null values, duplicates, and understanding data distribution.
+- **Data Preprocessing**: Detailed steps including normalization techniques like Z-score normalization and Box-Cox transformation, aimed at preparing the dataset for modeling.
+- **Model Creation**: Detailed explanation and implementation of Logistic Regression from scratch including the mathematical foundations and coding aspects.
+- **Model Evaluation**: Techniques and code snippets for evaluating the performance of the created model.
 
 ## Prerequisites
 Make sure you have the following installed before running the notebook:
